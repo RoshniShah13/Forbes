@@ -1,4 +1,4 @@
 # Forbes
-Thus is my first repo.
+I am learning to use Git and Github.This is my first repo.
 <br>
 Author: Roshni K Shah
